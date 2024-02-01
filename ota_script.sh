@@ -26,7 +26,7 @@ echo '{
       "id": "'$md5'",
       "romtype": "'$romtype'",
       "size": '$size',
-      "url": "https://downloads.pulkit077.workers.dev/0:/Downloads/'$zip_only'",
+      "url": "https://downloads.royalturd.workers.dev/0:/Horny%20stuff%20/'$zip_only'",
       "version": "'$build_version'"
     }
   ]
